@@ -7,5 +7,5 @@ permalink: /
 
 # Concept
 
-## gitlaw
+## related..
 * [gitlaw-jp](http://gitlaw-jp.github.io)
