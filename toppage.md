@@ -3,9 +3,9 @@ layout: page
 permalink: /
 ---
 
-# 法令文のバージョン管理
-GitHub
+# About
 
+# Concept
 
 ## gitlaw
-* [gitlaw.us](http://gitlaw.us)
+* [gitlaw-jp](http://gitlaw-jp.github.io)
